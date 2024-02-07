@@ -53,7 +53,7 @@ body {
 	height: 75%;
 	position: absolute;
 	left: 50%;
-	top: 10%;
+	top: 50%;
 	transform: translate(-50%, -50%);
 	z-index: 0;
 	overflow: hidden;
