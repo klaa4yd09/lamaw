@@ -1,8 +1,7 @@
-h1,
-p {
+h1, p {
 	font-family: 'Hind', sans-serif;
 	text-align: justify;
-	margin-left: 50px;
+	
 }
 
 p{
@@ -15,6 +14,8 @@ p{
 h1 {
 	font-weight: 200;
 	text-align: justify;
+	margin-left: 50px;
+	margin-right: 50px;
 	
 	
 }
