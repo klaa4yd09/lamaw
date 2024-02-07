@@ -1,6 +1,8 @@
 h1, p {
 	font-family: 'Hind', sans-serif;
 	text-align: justify;
+	margin-left: 42%;
+	margin-top: 50px;
 }
 
 p{
@@ -168,8 +170,4 @@ body {
 	top: 85%;
 	transform: translate(-50%, 0);
 }
-h1 {
-	margin-left: 42%;
-	margin-top: 50px;
-	text-align: justify;
-}
+
