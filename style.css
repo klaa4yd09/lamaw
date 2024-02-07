@@ -1,10 +1,12 @@
 h1,
 p {
 	font-family: 'Hind', sans-serif;
+	text-align: justify;
 }
 
 p{
 	text-indent: 50px;
+	text-align: justify;
 }
 
 h1 {
