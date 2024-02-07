@@ -110,7 +110,7 @@ body {
 
 @keyframes heartMove {
 	0% {
-		top: 10%;
+		top: 50%;
 	}
 	100% {
 		top: 85%;
