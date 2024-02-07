@@ -33,7 +33,7 @@ body {
 .heart {
 	position: absolute;
 	left: 50%;
-	top: 40%;
+	top: 50%;
 	text-align: center;
 	transform: translate(-50%, -50%);
 	transition: transform 2s;
@@ -43,7 +43,6 @@ body {
 .heart > img {
 	width: 50px;
 	height: auto;
-	top: 50%;
 }
 
 .message {
