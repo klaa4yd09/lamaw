@@ -43,6 +43,7 @@ body {
 .heart > img {
 	width: 50px;
 	height: auto;
+	top: 10%;
 }
 
 .message {
@@ -52,7 +53,7 @@ body {
 	height: 75%;
 	position: absolute;
 	left: 50%;
-	top: 50%;
+	top: 10%;
 	transform: translate(-50%, -50%);
 	z-index: 0;
 	overflow: hidden;
@@ -110,7 +111,7 @@ body {
 
 @keyframes heartMove {
 	0% {
-		top: 50%
+		top: 10%;
 	}
 	100% {
 		top: 85%;
